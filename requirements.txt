@@ -1,0 +1,4 @@
+aiogram
+libftp
+pyqiwip2p
+loguru

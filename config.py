@@ -1,0 +1,9 @@
+token = "6112339311:AAHcmFyADlmrcI9Sk0COPki-bMq99Z46H2Q"
+id_channel1 = "@h1neky_blyat"
+not_sub_message = "Что бы пользоваться ботом подпишитесь на канал;)"
+admin = 5804430421
+cena = 150 #навсегда
+cena2 = 50 #неделя
+cena3 = 100 #месяц
+vremya = 15
+name_cheat = "Revoluse Oxide Cheat"
